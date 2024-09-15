@@ -8,5 +8,5 @@ Key Features:
 This project fueled my passion for software development!
 
 
-https://github.com/user-attachments/assets/70a3655b-f88e-4093-a04b-504168c90065
+https://github.com/user-attachments/assets/a7cd0ad9-1115-4271-84c6-fee926b3da04
 
